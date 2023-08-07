@@ -1,0 +1,3 @@
+"us client"
+
+const AccountProfile = () => {}
